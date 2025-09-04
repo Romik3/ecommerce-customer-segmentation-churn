@@ -4,7 +4,7 @@
 
 This project is an end-to-end data science solution designed to provide an e-commerce business with actionable insights into its customer base. By analyzing transactional data, we segment customers into distinct groups, build a machine learning model to predict churn, and leverage Generative AI to brainstorm targeted marketing strategies. The final output is a comprehensive Power BI dashboard that visualizes key business metrics and customer behaviors, transforming raw data into a strategic asset.
 
-![Dashboard Screenshot](dashboard_screenshot.png)
+
 
 ---
 
