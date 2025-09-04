@@ -7,7 +7,7 @@ This project is an end-to-end data science solution designed to provide an e-com
 
 
 ---
-
+##  Dataset Link : https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci
 ## 🎯 Project Objectives
 
 1.  **Customer Segmentation:** Analyze customer purchasing behavior to identify distinct groups using the RFM (Recency, Frequency, Monetary) framework and K-Means clustering.
